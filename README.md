@@ -1003,24 +1003,28 @@ The five-bit abacus decimal cell is proposed as one such structure.
 
 # Related Links
 
-## Japanese NOTE Article
+## Main Article
 
-コンピュータのパラダイムシフト  
-https://note.com/inchacomusho/n/n3122fccd16e6
+- [Computer Paradigm Shift](https://note.com/inchacomusho/n/n3122fccd16e6)
 
 ## Related Repositories
 
-Electronic Optical Hybrid Quantum Compatible Computing  
-https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing
+- [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
+- [Electronic–Optical Hybrid Quantum-Compatible Computing](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README.md)
+- [Electronic–Optical Hybrid Quantum-Compatible Computing Architecture](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README.md)
+- [Optical Bead Quantum Computing: A Multi-Valued Photonic Paradigm](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md)
+- [Optical Bead Computing](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm)
 
-Electronic Optical Hybrid Quantum Compatible Computing Architecture  
-https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture
+## Related Japanese Articles
 
-Optical Bead Quantum Computing  
-https://github.com/InchaComisho/Optical-Bead-Quantum-Computing
+- [電子・光ハイブリッド量子互換コンピューティング](https://note.com/inchacomusho/n/n110ab05dca7e)
+- [光珠量子計算：多値フォトニックパラダイム（日本語版学術論文）](https://note.com/inchacomusho/n/nf2b969db3c43)
 
-Optical Bead Quantum Computing: A Multi-Valued Photonic Paradigm  
-https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm
+## Portals
+
+- [Natural Complementary Science and the New Civilizational Genesis Plan Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Civilization OS Framework](https://github.com/InchaComisho/Civilization-OS-Framework)
 
 ---
 
