@@ -4,11 +4,21 @@
 Run from the repository root:
 
     python -m unittest simulations/test_abacus_decimal.py
+
+Or from this directory:
+
+    python -m unittest test_abacus_decimal.py
 """
 
+import os
+import sys
 import unittest
 
-from abacus_decimal import (
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+if CURRENT_DIR not in sys.path:
+    sys.path.insert(0, CURRENT_DIR)
+
+from abacus_decimal import (  # noqa: E402
     AbacusCell,
     AbacusDecimalError,
     add_digits,
