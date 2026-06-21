@@ -1,3 +1,14 @@
+---
+
+# ナビゲーション
+
+- [リポジトリトップ](../README_ja.md)
+- [英語版 README](../README.md)
+- [ドキュメント索引](../docs/README_ja.md)
+- [英語版シミュレーション索引](./README.md)
+
+---
+
 # シミュレーション
 
 このディレクトリには、**Abacus Decimal Computing Paradigm** の参照シミュレーションを置く。
