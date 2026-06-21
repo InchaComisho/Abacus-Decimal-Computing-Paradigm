@@ -1,3 +1,14 @@
+---
+
+# ナビゲーション
+
+- [リポジトリトップ](../README_ja.md)
+- [英語版 README](../README.md)
+- [英語版ドキュメント索引](./README.md)
+- [シミュレーション](../simulations/README_ja.md)
+
+---
+
 # ドキュメント索引
 
 このディレクトリには、**Abacus Decimal Computing Paradigm** を研究・実装向けリポジトリとして強化するための技術文書を置く。
