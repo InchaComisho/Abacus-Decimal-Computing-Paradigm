@@ -1,3 +1,14 @@
+---
+
+# Navigation
+
+- [Repository Top](../README.md)
+- [Japanese README](../README_ja.md)
+- [Japanese Documentation Index](./README_ja.md)
+- [Simulations](../simulations/README.md)
+
+---
+
 # Documentation Index
 
 This directory contains technical documents that strengthen the **Abacus Decimal Computing Paradigm** as a research and implementation-oriented repository.
