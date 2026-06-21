@@ -20,12 +20,24 @@
 
 ---
 
+## 拡張ドキュメント
+
+- [そろばん型10進互換レイヤー](./COMPATIBILITY_LAYER_ja.md)  
+  5ビットそろばん型10進セルを、電子ビット、LEDセル、光セル、多値フォトニック状態、将来の量子互換光システムをつなぐハードウェア非依存の互換レイヤーとして定義する。
+
+- [認知的そろばん拡張](./COGNITIVE_ABACUS_EXTENSION_ja.md)  
+  そろばん概念を、計算とハードウェア設計だけでなく、人間の認知、教育、空間パターン認識、AI分類、複雑な計算システムの人間可読な解釈へ拡張する。
+
+---
+
 ## English Documents
 
 - [Specification](./SPEC.md)
 - [Comparison with BCD](./COMPARISON_WITH_BCD.md)
 - [Validation Plan](./VALIDATION_PLAN.md)
 - [Architecture Diagrams](./ARCHITECTURE_DIAGRAMS.md)
+- [Abacus Decimal Compatibility Layer](./COMPATIBILITY_LAYER.md)
+- [Cognitive Abacus Extension](./COGNITIVE_ABACUS_EXTENSION.md)
 
 ---
 
@@ -34,9 +46,11 @@
 1. `SPEC_ja.md`  
 2. `COMPARISON_WITH_BCD_ja.md`  
 3. `VALIDATION_PLAN_ja.md`  
-4. `ARCHITECTURE_DIAGRAMS_ja.md`  
-5. `../simulations/README_ja.md`  
-6. `../simulations/abacus_decimal.py`
+4. `COMPATIBILITY_LAYER_ja.md`  
+5. `COGNITIVE_ABACUS_EXTENSION_ja.md`  
+6. `ARCHITECTURE_DIAGRAMS_ja.md`  
+7. `../simulations/README_ja.md`  
+8. `../simulations/abacus_decimal.py`
 
 ---
 
@@ -58,3 +72,13 @@ LED可視コンピューティング
 
 これは完成済みの量子コンピュータとして提示するものではない。  
 電子・光・将来の量子互換コンピューティングを、共通の10進・空間情報構造によって接続するための段階的アーキテクチャである。
+
+互換レイヤー文書と認知拡張文書は、以下の2つの解釈を追加する。
+
+```text
+ハードウェア互換:
+電子 → LED → 光 → フォトニック → 量子互換
+
+認知互換:
+数 → そろばんパターン → 空間認識 → AI/フォトニック分類
+```
