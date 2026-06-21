@@ -36,6 +36,43 @@ At the same time, this abacus-based decimal cell can potentially serve as a brid
 The purpose of this paradigm is not to immediately replace binary computing.
 Rather, it proposes a **common decimal, spatial, and pattern-based information structure** that may connect present electronic computers with future optical and quantum-compatible systems.
 
+
+---
+
+# Repository Navigation
+
+This repository contains both conceptual documentation and executable simulations.
+
+## Main Directories
+
+- [Documentation Index](./docs/README.md)  
+  Technical specifications, BCD comparison, validation plan, compatibility layer, cognitive extension, civilization adoption simulation, and architecture diagrams.
+
+- [Simulations](./simulations/README.md)  
+  Executable Python simulations for the five-bit abacus decimal cell and civilization-scale adoption scenarios.
+
+## Key Documents
+
+- [Specification](./docs/SPEC.md)
+- [Comparison with BCD](./docs/COMPARISON_WITH_BCD.md)
+- [Validation Plan](./docs/VALIDATION_PLAN.md)
+- [Abacus Decimal Compatibility Layer](./docs/COMPATIBILITY_LAYER.md)
+- [Cognitive Abacus Extension](./docs/COGNITIVE_ABACUS_EXTENSION.md)
+- [Civilization Adoption Simulation](./docs/CIVILIZATION_ADOPTION_SIMULATION.md)
+- [Architecture Diagrams](./docs/ARCHITECTURE_DIAGRAMS.md)
+
+## Key Simulations
+
+- [Abacus Decimal Cell Reference Simulation](./simulations/abacus_decimal.py)
+- [Civilization Adoption Scenario Simulation](./simulations/civilization_adoption_sim.py)
+- [Unit Tests](./simulations/test_abacus_decimal.py)
+
+## Japanese Version
+
+- [日本語版 README](./README_ja.md)
+- [日本語ドキュメント索引](./docs/README_ja.md)
+- [日本語シミュレーション索引](./simulations/README_ja.md)
+
 ---
 
 # Repository Concept
