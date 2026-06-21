@@ -28,6 +28,9 @@ This directory contains technical documents that strengthen the **Abacus Decimal
 - [Cognitive Abacus Extension](./COGNITIVE_ABACUS_EXTENSION.md)  
   Extends the abacus concept from calculation and hardware design into human cognition, education, spatial pattern recognition, AI classification, and human-readable interpretation of complex computing systems.
 
+- [Civilization Adoption Simulation](./CIVILIZATION_ADOPTION_SIMULATION.md)  
+  Proposes a scenario model comparing fragmented computer development with a civilization-scale shared abacus decimal compatibility layer, focusing on software continuity, OS integration, optical CPU readiness, and personal computer adoption speed.
+
 ---
 
 ## Japanese Documents
@@ -38,6 +41,7 @@ This directory contains technical documents that strengthen the **Abacus Decimal
 - [アーキテクチャ図解（日本語）](./ARCHITECTURE_DIAGRAMS_ja.md)
 - [そろばん型10進互換レイヤー（日本語）](./COMPATIBILITY_LAYER_ja.md)
 - [認知的そろばん拡張（日本語）](./COGNITIVE_ABACUS_EXTENSION_ja.md)
+- [文明採用シミュレーション（日本語）](./CIVILIZATION_ADOPTION_SIMULATION_ja.md)
 
 ---
 
@@ -48,9 +52,11 @@ This directory contains technical documents that strengthen the **Abacus Decimal
 3. `VALIDATION_PLAN.md`  
 4. `COMPATIBILITY_LAYER.md`  
 5. `COGNITIVE_ABACUS_EXTENSION.md`  
-6. `ARCHITECTURE_DIAGRAMS.md`  
-7. `../simulations/README.md`  
-8. `../simulations/abacus_decimal.py`
+6. `CIVILIZATION_ADOPTION_SIMULATION.md`  
+7. `ARCHITECTURE_DIAGRAMS.md`  
+8. `../simulations/README.md`  
+9. `../simulations/abacus_decimal.py`  
+10. `../simulations/civilization_adoption_sim.py`
 
 ---
 
@@ -80,4 +86,12 @@ electronic → LED → optical → photonic → quantum-compatible
 
 Cognitive compatibility:
 number → abacus pattern → spatial recognition → AI/photonic classification
+```
+
+The civilization adoption simulation adds an ecosystem-level question:
+
+```text
+If a shared compatibility layer exists early,
+can a civilization reduce fragmentation and accelerate OS, software, optical CPU,
+and personal computer adoption?
 ```
