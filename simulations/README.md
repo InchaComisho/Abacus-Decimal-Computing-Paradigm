@@ -1,3 +1,14 @@
+---
+
+# Navigation
+
+- [Repository Top](../README.md)
+- [Japanese README](../README_ja.md)
+- [Documentation Index](../docs/README.md)
+- [Japanese Simulation Index](./README_ja.md)
+
+---
+
 # Simulations
 
 This directory contains executable reference simulations for the **Abacus Decimal Computing Paradigm**.
