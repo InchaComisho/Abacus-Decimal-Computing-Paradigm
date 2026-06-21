@@ -2,14 +2,20 @@
 
 This directory contains executable reference simulations for the **Abacus Decimal Computing Paradigm**.
 
-The current implementation is intentionally simple and dependency-free. It is designed to verify the minimum technical layer of the proposal before moving toward FPGA, LED, optical, or quantum-compatible experiments.
+The current implementations are intentionally simple and dependency-free. They are designed to test the minimum technical layer of the proposal and to explore ecosystem-level adoption scenarios before moving toward FPGA, LED, optical, or quantum-compatible experiments.
 
 ---
 
-## File
+## Files
 
 - `abacus_decimal.py`  
   Reference implementation of the five-bit abacus decimal cell.
+
+- `test_abacus_decimal.py`  
+  Basic unit tests for the abacus decimal reference implementation.
+
+- `civilization_adoption_sim.py`  
+  Scenario simulation comparing fragmented computer development with a shared abacus decimal compatibility layer.
 
 ---
 
@@ -40,7 +46,7 @@ Physical LED orientation may be reversed without changing the logical model.
 
 ---
 
-## Usage
+## Abacus Decimal Cell Usage
 
 Run from the repository root.
 
@@ -86,11 +92,46 @@ python simulations/abacus_decimal.py error --trials 10000 --flips 1
 
 Run a random bit-flip error detection simulation.
 
+```bash
+python -m unittest simulations/test_abacus_decimal.py
+```
+
+Run unit tests.
+
 ---
 
-## What This Simulation Tests
+## Civilization Adoption Scenario Usage
 
-This reference implementation tests:
+```bash
+python simulations/civilization_adoption_sim.py
+```
+
+Run the default scenario comparison from 2026 to 2060.
+
+```bash
+python simulations/civilization_adoption_sim.py --start-year 2026 --end-year 2070
+```
+
+Run a longer scenario.
+
+```bash
+python simulations/civilization_adoption_sim.py --csv outputs/civilization_adoption.csv
+```
+
+Export year-by-year maturity scores to CSV.
+
+The simulation compares:
+
+- `fragmented`: each company or institution develops incompatible electronic-optical or optical computing architectures.
+- `shared_layer`: a common five-bit abacus decimal compatibility layer is adopted early, improving software reuse, standardization, and hardware transition efficiency.
+
+This is not a prediction. It is a scenario comparison model.
+
+---
+
+## What These Simulations Test
+
+The abacus decimal reference implementation tests:
 
 - decimal digit encoding
 - decimal digit decoding
@@ -102,6 +143,15 @@ This reference implementation tests:
 - multi-digit subtraction
 - random bit-flip detection
 - silent valid-state mutation rate
+
+The civilization adoption simulation explores:
+
+- software ecosystem formation
+- operating system integration speed
+- optical CPU / photonic processor readiness
+- personal computer adoption readiness
+- fragmented development versus shared compatibility-layer development
+- threshold year differences between scenarios
 
 ---
 
@@ -120,6 +170,8 @@ For safety-critical use, additional mechanisms should be studied:
 - repeated sampling
 - electronic and optical cross-validation
 
+The civilization adoption simulation also has limitations. It uses simplified variables and should not be read as a date prediction.
+
 ---
 
 ## Next Simulation Targets
@@ -132,3 +184,5 @@ Recommended future additions:
 - LED pattern PNG generation
 - camera recognition mockup
 - FPGA/HDL equivalent tests
+- sensitivity analysis for civilization adoption parameters
+- alternative scenarios for open standards, proprietary standards, and government-backed standards
