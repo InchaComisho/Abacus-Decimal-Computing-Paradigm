@@ -28,6 +28,9 @@
 - [認知的そろばん拡張](./COGNITIVE_ABACUS_EXTENSION_ja.md)  
   そろばん概念を、計算とハードウェア設計だけでなく、人間の認知、教育、空間パターン認識、AI分類、複雑な計算システムの人間可読な解釈へ拡張する。
 
+- [文明採用シミュレーション](./CIVILIZATION_ADOPTION_SIMULATION_ja.md)  
+  分断型コンピュータ開発と、文明規模で共通そろばん型10進互換レイヤーを採用した場合を比較し、ソフトウェア連続性、OS統合、光CPU準備度、パーソナルコンピュータ採用速度を評価するシナリオモデル。
+
 ---
 
 ## English Documents
@@ -38,6 +41,7 @@
 - [Architecture Diagrams](./ARCHITECTURE_DIAGRAMS.md)
 - [Abacus Decimal Compatibility Layer](./COMPATIBILITY_LAYER.md)
 - [Cognitive Abacus Extension](./COGNITIVE_ABACUS_EXTENSION.md)
+- [Civilization Adoption Simulation](./CIVILIZATION_ADOPTION_SIMULATION.md)
 
 ---
 
@@ -48,9 +52,11 @@
 3. `VALIDATION_PLAN_ja.md`  
 4. `COMPATIBILITY_LAYER_ja.md`  
 5. `COGNITIVE_ABACUS_EXTENSION_ja.md`  
-6. `ARCHITECTURE_DIAGRAMS_ja.md`  
-7. `../simulations/README_ja.md`  
-8. `../simulations/abacus_decimal.py`
+6. `CIVILIZATION_ADOPTION_SIMULATION_ja.md`  
+7. `ARCHITECTURE_DIAGRAMS_ja.md`  
+8. `../simulations/README_ja.md`  
+9. `../simulations/abacus_decimal.py`  
+10. `../simulations/civilization_adoption_sim.py`
 
 ---
 
@@ -81,4 +87,12 @@ LED可視コンピューティング
 
 認知互換:
 数 → そろばんパターン → 空間認識 → AI/フォトニック分類
+```
+
+文明採用シミュレーションは、さらにエコシステム規模の問いを追加する。
+
+```text
+早期に共通互換レイヤーが存在した場合、
+文明は分断を減らし、OS・ソフトウェア・光CPU・
+パーソナルコンピュータ採用を加速できるか。
 ```
