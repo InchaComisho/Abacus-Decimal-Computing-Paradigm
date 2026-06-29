@@ -26,6 +26,43 @@
 本構想の目的は、既存の2進コンピュータを即座に置き換えることではない。
 むしろ、現在の電子コンピュータと未来の光・量子コンピュータを断絶させず、**共通の10進・空間・パターン情報構造によって接続すること**にある。
 
+
+---
+
+# リポジトリ内ナビゲーション
+
+このリポジトリには、構想・技術仕様・検証計画・実行可能なシミュレーションを収録している。
+
+## 主要ディレクトリ
+
+- [ドキュメント索引](./docs/README_ja.md)  
+  技術仕様、BCD比較、検証計画、互換レイヤー、認知拡張、文明採用シミュレーション、アーキテクチャ図解を収録。
+
+- [シミュレーション](./simulations/README_ja.md)  
+  5ビットそろばん型10進セルと、文明規模の採用シナリオを検証するPythonシミュレーションを収録。
+
+## 主要ドキュメント
+
+- [仕様書](./docs/SPEC_ja.md)
+- [BCDとの比較](./docs/COMPARISON_WITH_BCD_ja.md)
+- [検証計画](./docs/VALIDATION_PLAN_ja.md)
+- [そろばん型10進互換レイヤー](./docs/COMPATIBILITY_LAYER_ja.md)
+- [認知的そろばん拡張](./docs/COGNITIVE_ABACUS_EXTENSION_ja.md)
+- [文明採用シミュレーション](./docs/CIVILIZATION_ADOPTION_SIMULATION_ja.md)
+- [アーキテクチャ図解](./docs/ARCHITECTURE_DIAGRAMS_ja.md)
+
+## 主要シミュレーション
+
+- [そろばん型10進セル参照シミュレーション](./simulations/abacus_decimal.py)
+- [文明採用シナリオ・シミュレーション](./simulations/civilization_adoption_sim.py)
+- [ユニットテスト](./simulations/test_abacus_decimal.py)
+
+## English Version
+
+- [English README](./README.md)
+- [English Documentation Index](./docs/README.md)
+- [English Simulation Index](./simulations/README.md)
+
 ---
 
 ## Repository Concept
