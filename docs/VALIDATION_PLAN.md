@@ -279,3 +279,22 @@ The Abacus Decimal Computing Paradigm should be evaluated as a staged research a
 The first stage is not quantum computing.
 
 The first stage is a clear, testable, five-bit decimal-spatial cell that can be implemented, simulated, displayed, read, and extended.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
