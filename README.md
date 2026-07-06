@@ -1,5 +1,7 @@
 # Abacus Decimal Computing Paradigm
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Five-Bit Abacus-Based Decimal Computing Architecture for Electronic, Optical, and Quantum-Compatible Systems
 
 ## Abstract

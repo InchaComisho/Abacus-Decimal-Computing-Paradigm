@@ -1,5 +1,7 @@
 # Abacus Decimal Computing Paradigm
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 5ビットそろばん型10進基盤による電子・光・量子互換コンピューティング構想
 
 ## 概要
