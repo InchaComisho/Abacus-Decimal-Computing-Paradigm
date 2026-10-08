@@ -286,10 +286,8 @@ The abacus can be interpreted as a human-compatible spatial pattern model that m
 # 11. Related Articles
 
 - Global Abacus Education Curriculum Proposal  
-  https://note.com/inchacomusho/n/nc046d5bcb017
 
 - Related note article  
-  https://note.com/inchacomusho/n/nfe36c40159e1
 
 ---
 

@@ -818,12 +818,6 @@ LED表示されたそろばん型セルは、画像認識によって機械的�
 
 ---
 
-# 関連リンク / Related Links
-
-## NOTE記事
-
-- [コンピュータのパラダイムシフト](https://note.com/inchacomusho/n/n3122fccd16e6)
-
 ## 関連リポジトリ
 
 - [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
@@ -835,11 +829,6 @@ LED表示されたそろばん型セルは、画像認識によって機械的�
 - [Optical Bead Quantum Computing: A Multi-Valued Photonic Paradigm](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md)
 - [光学ビードコンピューティング](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm)
 - [Optical Bead Computing](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm)
-
-## 関連NOTE
-
-- [電子・光ハイブリッド量子互換コンピューティング](https://note.com/inchacomusho/n/n110ab05dca7e)
-- [光珠量子計算：多値フォトニックパラダイム（日本語版学術論文）](https://note.com/inchacomusho/n/nf2b969db3c43)
 
 ## ポータル / Portal
 

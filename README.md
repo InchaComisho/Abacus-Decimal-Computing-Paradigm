@@ -1040,12 +1040,6 @@ The five-bit abacus decimal cell is proposed as one such structure.
 
 ---
 
-# Related Links
-
-## Main Article
-
-- [Computer Paradigm Shift](https://note.com/inchacomusho/n/n3122fccd16e6)
-
 ## Related Repositories
 
 - [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
@@ -1053,11 +1047,6 @@ The five-bit abacus decimal cell is proposed as one such structure.
 - [Electronic–Optical Hybrid Quantum-Compatible Computing Architecture](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README.md)
 - [Optical Bead Quantum Computing: A Multi-Valued Photonic Paradigm](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md)
 - [Optical Bead Computing](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm)
-
-## Related Japanese Articles
-
-- [電子・光ハイブリッド量子互換コンピューティング](https://note.com/inchacomusho/n/n110ab05dca7e)
-- [光珠量子計算：多値フォトニックパラダイム（日本語版学術論文）](https://note.com/inchacomusho/n/nf2b969db3c43)
 
 ## Portals
 

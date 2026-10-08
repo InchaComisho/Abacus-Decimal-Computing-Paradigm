@@ -294,10 +294,8 @@ AIまたはセンサーによる分類
 # 11. 関連記事
 
 - 世界共通そろばん教育カリキュラム案  
-  https://note.com/inchacomusho/n/nc046d5bcb017
 
 - 関連NOTE記事  
-  https://note.com/inchacomusho/n/nfe36c40159e1
 
 ---
 
