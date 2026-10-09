@@ -46,13 +46,13 @@
 
 ## English Documents
 
-- [Specification](./SPEC.md)
-- [Comparison with BCD](./COMPARISON_WITH_BCD.md)
-- [Validation Plan](./VALIDATION_PLAN.md)
-- [Architecture Diagrams](./ARCHITECTURE_DIAGRAMS.md)
-- [Abacus Decimal Compatibility Layer](./COMPATIBILITY_LAYER.md)
-- [Cognitive Abacus Extension](./COGNITIVE_ABACUS_EXTENSION.md)
-- [Civilization Adoption Simulation](./CIVILIZATION_ADOPTION_SIMULATION.md)
+- [Specification](./SPEC_ja.md)
+- [Comparison with BCD](./COMPARISON_WITH_BCD_ja.md)
+- [Validation Plan](./VALIDATION_PLAN_ja.md)
+- [Architecture Diagrams](./ARCHITECTURE_DIAGRAMS_ja.md)
+- [Abacus Decimal Compatibility Layer](./COMPATIBILITY_LAYER_ja.md)
+- [Cognitive Abacus Extension](./COGNITIVE_ABACUS_EXTENSION_ja.md)
+- [Civilization Adoption Simulation](./CIVILIZATION_ADOPTION_SIMULATION_ja.md)
 
 ---
 
