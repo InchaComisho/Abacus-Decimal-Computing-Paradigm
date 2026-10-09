@@ -1,5 +1,7 @@
 # Architecture Diagrams
 
+[日本語版はこちら / Japanese version](ARCHITECTURE_DIAGRAMS_ja.md)
+
 This document provides Mermaid diagrams for the **Abacus Decimal Computing Paradigm**.
 
 These diagrams are intended for README integration, documentation, presentations, and future visual assets.

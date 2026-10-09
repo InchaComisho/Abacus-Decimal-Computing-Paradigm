@@ -1,5 +1,7 @@
 # 認知的そろばん拡張
 
+[English Version](COGNITIVE_ABACUS_EXTENSION.md)
+
 ## 概要
 
 **認知的そろばん拡張**は、Abacus Decimal Computing Paradigm をハードウェア構想の外側へ拡張する考え方である。

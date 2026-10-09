@@ -1,5 +1,7 @@
 # Abacus Decimal Cell Specification
 
+[日本語版はこちら / Japanese version](SPEC_ja.md)
+
 ## Purpose
 
 This document defines the minimum technical specification for the **Abacus Decimal Computing Paradigm**.

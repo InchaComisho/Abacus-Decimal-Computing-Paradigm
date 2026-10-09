@@ -1,5 +1,7 @@
 # Comparison with BCD
 
+[日本語版はこちら / Japanese version](COMPARISON_WITH_BCD_ja.md)
+
 ## Overview
 
 This document compares the **Abacus Decimal Computing Paradigm** with conventional **Binary-Coded Decimal (BCD)**.

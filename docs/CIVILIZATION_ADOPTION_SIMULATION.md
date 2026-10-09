@@ -1,5 +1,7 @@
 # Civilization Adoption Simulation
 
+[日本語版はこちら / Japanese version](CIVILIZATION_ADOPTION_SIMULATION_ja.md)
+
 ## Overview
 
 This document proposes a scenario simulation for computer development speed when a civilization adopts the **Abacus Decimal Compatibility Layer** as a shared foundation.

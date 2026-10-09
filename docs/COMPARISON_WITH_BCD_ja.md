@@ -1,5 +1,7 @@
 # BCDとの比較
 
+[English Version](COMPARISON_WITH_BCD.md)
+
 ## 概要
 
 本書は、**Abacus Decimal Computing Paradigm** と、従来の **BCD（Binary-Coded Decimal / 2進化10進表現）** を比較する。

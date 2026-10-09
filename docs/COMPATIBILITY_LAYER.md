@@ -1,5 +1,7 @@
 # Abacus Decimal Compatibility Layer
 
+[日本語版はこちら / Japanese version](COMPATIBILITY_LAYER_ja.md)
+
 ## Overview
 
 The **Abacus Decimal Compatibility Layer** is the architectural idea that the five-bit abacus decimal cell can serve as a common information layer across multiple generations of computing hardware.

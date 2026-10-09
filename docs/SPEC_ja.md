@@ -1,5 +1,7 @@
 # そろばん型10進セル仕様書
 
+[English Version](SPEC.md)
+
 ## 目的
 
 本書は、**Abacus Decimal Computing Paradigm** における最小単位である「5ビットそろばん型10進セル」の技術仕様を定義する。

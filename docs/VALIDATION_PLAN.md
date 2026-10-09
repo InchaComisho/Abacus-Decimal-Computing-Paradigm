@@ -1,5 +1,7 @@
 # Validation Plan
 
+[日本語版はこちら / Japanese version](VALIDATION_PLAN_ja.md)
+
 ## Purpose
 
 This document defines a staged validation plan for the **Abacus Decimal Computing Paradigm**.

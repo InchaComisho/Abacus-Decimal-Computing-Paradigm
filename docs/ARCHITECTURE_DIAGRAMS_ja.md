@@ -1,5 +1,7 @@
 # アーキテクチャ図解
 
+[English Version](ARCHITECTURE_DIAGRAMS.md)
+
 本書は、**Abacus Decimal Computing Paradigm** のMermaid図解をまとめた文書である。
 
 READMEへの組み込み、説明資料、将来的な画像化、発表資料などに利用できる。

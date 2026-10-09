@@ -1,5 +1,7 @@
 # Cognitive Abacus Extension
 
+[日本語版はこちら / Japanese version](COGNITIVE_ABACUS_EXTENSION_ja.md)
+
 ## Overview
 
 The **Cognitive Abacus Extension** expands the Abacus Decimal Computing Paradigm beyond hardware architecture.

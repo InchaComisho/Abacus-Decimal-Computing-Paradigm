@@ -1,5 +1,7 @@
 # 検証計画
 
+[English Version](VALIDATION_PLAN.md)
+
 ## 目的
 
 本書は、**Abacus Decimal Computing Paradigm** の段階的な検証計画を定義する。
